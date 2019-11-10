@@ -3,37 +3,37 @@
     { 
       "id": 1, 
       "title": "Cheese Sticks",
-      "image": "",
+      "image": "https://brandonplummer.com/images/sides/cheesesticks.jpg",
       "price": "4.99"
     },
     { 
       "id": 2, 
       "title": "Onion Rings",
-      "image": "",
+      "image": "https://brandonplummer.com/images/sides/onionrings.jpg",
       "price": "4.99"
     },
     { 
       "id": 3, 
       "title": "Fried Mushrooms",
-      "image": "",
+      "image": "https://brandonplummer.com/images/sides/mushrooms.jpg",
       "price": "4.99"
     },
     { 
       "id": 4, 
       "title": "Curly Fries",
-      "image": "",
+      "image": "https://brandonplummer.com/images/sides/curly.jpg",
       "price": "4.99"
     },
     { 
       "id": 5, 
-      "title": "Steak Fries",
-      "image": "",
+      "title": "French Fries",
+      "image": "https://brandonplummer.com/images/sides/fries.jpg",
       "price": "4.99"
     },
     { 
       "id": 6, 
       "title": "Fried Potato Mash",
-      "image": "",
+      "image": "https://brandonplummer.com/images/sides/mushrooms.jpg",
       "price": "4.99"
     }
   ],
@@ -41,37 +41,37 @@
     { 
       "id": 11, 
       "title": "Cheese Burger",
-      "image": "",
+      "image": "https://brandonplummer.com/images/sandwiches/burger.jpg",
       "price": "10.99"
     },
     { 
       "id": 12, 
       "title": "Grilled Chicken",
-      "image": "",
+      "image": "https://brandonplummer.com/images/sandwiches/grilledchicken.jpg",
       "price": "10.99"
     },
     { 
       "id": 13, 
       "title": "Fried Chicken",
-      "image": "",
+      "image": "https://brandonplummer.com/images/sandwiches/firedchicken.jpg",
       "price": "10.99"
     },
     { 
       "id": 14, 
       "title": "Steak and Cheese",
-      "image": "",
+      "image": "https://brandonplummer.com/images/sandwiches/steaksandwich.jpg",
       "price": "10.99"
     },
     { 
       "id": 15, 
       "title": "Hot Ham and Cheese",
-      "image": "",
+      "image": "https://brandonplummer.com/images/sandwiches/hotham.jpg",
       "price": "10.99"
     },
     { 
       "id": 16, 
       "title": "Grilled Cheese",
-      "image": "",
+      "image": "https://brandonplummer.com/images/sandwiches/grilledcheese.jpg",
       "price": "10.99"
     }
   ],
@@ -79,37 +79,37 @@
     { 
       "id": 21, 
       "title": "Cupcake",
-      "image": "",
+      "image": "https://brandonplummer.com/images/desserts/cupcake.jpg",
       "price": "3.99"
     },
     { 
       "id": 22, 
       "title": "Cookies",
-      "image": "",
+      "image": "https://brandonplummer.com/images/desserts/cookies.jpg",
       "price": "3.99"
     },
     { 
       "id": 23, 
       "title": "Ice Cream",
-      "image": "",
+      "image": "https://brandonplummer.com/images/desserts/icecream.jpg",
       "price": "3.99"
     },
     { 
       "id": 24, 
       "title": "Cake Pops",
-      "image": "",
+      "image": "https://brandonplummer.com/images/desserts/cakepops.jpg",
       "price": "3.99"
     },
     { 
       "id": 25, 
       "title": "Muffins",
-      "image": "",
+      "image": "https://brandonplummer.com/images/desserts/muffins.jpg",
       "price": "3.99"
     },
     { 
       "id": 26, 
       "title": "Brownies",
-      "image": "",
+      "image": "https://brandonplummer.com/images/desserts/brownies.jpg",
       "price": "3.99"
     }
   ]
