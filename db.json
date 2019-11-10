@@ -35,7 +35,7 @@
       "title": "Fried Potato Mash",
       "image": "",
       "price": "4.99"
-    },
+    }
   ],
   "sandwiches": [
     { 
@@ -73,7 +73,7 @@
       "title": "Grilled Cheese",
       "image": "",
       "price": "10.99"
-    },
+    }
   ],
   "desserts": [
     { 
