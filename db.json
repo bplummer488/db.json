@@ -1,4 +1,5 @@
 {
+  "products:" [
   "pasta": [
     { "id": 1, "title": "https://live.staticflickr.com/7911/46789575261_d327f84b25_b.jpg" },
     { "id": 2, "title": "https://live.staticflickr.com/65535/48674599766_b36d66339a_b.jpg" },
@@ -7,4 +8,5 @@
     { "id": 5, "title": "https://live.staticflickr.com/65535/48674599766_b36d66339a_b.jpg" },
     { "id": 6, "title": "https://live.staticflickr.com/65535/48674599766_b36d66339a_b.jpg" }
   ]
+]
 }
